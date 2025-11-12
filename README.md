@@ -54,8 +54,8 @@ This section tracks the daily assignments and materials from the course.
 - **Whitepaper:** "Context Engineering: Sessions & Memory"
 - **Podcast:** "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle):**
-  1. [Build stateful agents and perform context engineering]()
-  2. [o	Explore how to use memory with your agent.]()
+  1. [Build stateful agents and perform context engineering](#)
+  2. [Explore how to use memory with your agent.](#)
 
 ### Day 4 (Nov 12, 2025)
 
