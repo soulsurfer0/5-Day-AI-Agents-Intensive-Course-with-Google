@@ -48,9 +48,14 @@ This section tracks the daily assignments and materials from the course.
   1. [Explore new ways to add tools to extend what your agents can do](https://www.kaggle.com/code/kaggle5daysofai/day-2a-tools-and-function-calling)
   2. [Explore best practices for tools, including MCP and long-running operations](https://www.kaggle.com/code/kaggle5daysofai/day-2b-mcp-and-long-running-operations)
 
-### Day 3 (Nov 11, 2025)
+### Day 3: Context Engineering: Sessions & Memory
 
-- Assignments and materials will be added upon release.
+- **Topic:** context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
+- **Whitepaper:** ""
+- **Podcast:** 
+- **Codelabs (Kaggle):**
+  1. 
+  2. 
 
 ### Day 4 (Nov 12, 2025)
 
