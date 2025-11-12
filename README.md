@@ -33,8 +33,8 @@ This section tracks the daily assignments and materials from the course.
 - **Whitepaper:** "Introduction to Agents"
 - **Podcast:** [Unit 1 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)
 - **Codelabs (Kaggle):**
-  1. [Build your first agent using Gemini and ADK](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action)
-  2. [Build your first multi-agent systems using ADK](https://www.kaggle.com/code/kaggle5daysofai/day-1b-building-multi-agent-systems)
+  1. [Build your first agent using Gemini and ADK](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
+  2. [Build your first multi-agent systems using ADK](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
 - **Resources:**
   - [Codelab Troubleshooting Guide](https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs)
   - Note: Kaggle account phone verification is required for codelabs.
@@ -45,17 +45,17 @@ This section tracks the daily assignments and materials from the course.
 - **Whitepaper:** "Agent Tools & Interoperability with Model Context Protocol (MCP)"
 - **Podcast:** [Unit 2 Summary (via NotebookLM)](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 - **Codelabs (Kaggle):**
-  1. [Explore new ways to add tools to extend what your agents can do](https://www.kaggle.com/code/kaggle5daysofai/day-2a-tools-and-function-calling)
-  2. [Explore best practices for tools, including MCP and long-running operations](https://www.kaggle.com/code/kaggle5daysofai/day-2b-mcp-and-long-running-operations)
+  1. [Explore new ways to add tools to extend what your agents can do](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
+  2. [Explore best practices for tools, including MCP and long-running operations](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
 
 ### Day 3: Context Engineering: Sessions & Memory
 
 - **Topic:** context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
-- **Whitepaper:** ""
-- **Podcast:** 
+- **Whitepaper:** "Context Engineering: Sessions & Memory"
+- **Podcast:** "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle):**
-  1. 
-  2. 
+  1. [Build stateful agents and perform context engineering]()
+  2. [o	Explore how to use memory with your agent.]()
 
 ### Day 4 (Nov 12, 2025)
 
