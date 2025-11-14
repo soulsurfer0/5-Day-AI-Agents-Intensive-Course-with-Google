@@ -51,10 +51,10 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast:** [Unit 2 Summary (via NotebookLM)](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 - **Codelabs (Kaggle)**:
   1. Explore new ways to add tools to extend what your agents can do
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
   2. [Explore best practices for tools, including MCP and long-running operations]
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
 
 ### Day 3: Context Engineering: Sessions & Memory
@@ -64,10 +64,10 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast**: "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle)**:
   1. Build stateful agents and perform context engineering
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-3a-agent-sessions)
   2. Explore how to use memory with your agent.
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3b-agent-memory)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3b-agent-memory) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-3b-agent-memory)
 
 ### Day 4: Agent Quality
@@ -77,10 +77,10 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast**: "[Unit 4 Summary (via NotebookLM)(https://www.youtube.com/watch?v=LFQRy-Ci-lk)
 - **Codelabs (Kaggle)**:
   1. Implement observability to help  debug your agents.
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-4a-agent-observability)
   2. Evaluate your agents.
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
 
 ### Day 5 (Nov 13, 2025)
