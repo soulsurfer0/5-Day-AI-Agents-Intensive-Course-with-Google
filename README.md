@@ -22,6 +22,7 @@ The curriculum is designed to move from foundational concepts to building produc
 - **Platform:** Kaggle (for Codelabs)
 - **Language:** Python
 - **Support Tool:** NotebookLM
+- **Landing Page:** [Source}(https://www.kaggle.com/kaggle5daysofai/code)
 
 ## Daily Assignments & Curriculum
 
@@ -35,10 +36,10 @@ This section tracks the daily assignments and materials from the course.
 - **Codelabs (Kaggle):**
   1. [Build your first agent using Gemini and ADK]
       [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action)
-      [Mine](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
+      [Submission](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
   2. [Build your first multi-agent systems using ADK]
      [Original](#)
-     [Mine](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
 - **Resources:**
   - [Codelab Troubleshooting Guide](https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs)
   - Note: Kaggle account phone verification is required for codelabs.
