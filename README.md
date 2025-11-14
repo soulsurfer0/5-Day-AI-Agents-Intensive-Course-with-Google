@@ -8,7 +8,7 @@ This 5-day online program, crafted by Google's ML researchers and engineers, hel
 
 The curriculum is designed to move from foundational concepts to building production-ready systems. Each day blends conceptual deep dives, hands-on codelabs, and live discussions.
 
-**Key concepts covered:**
+**Key concepts covered**:
 - Core agent components: Models, Tools, Orchestration, Memory, and Evaluation.
 - Agent Ops: Reliability, governance, and security.
 - Practical application: Building agents with the Agent Development Kit (ADK) and Gemini.
@@ -16,13 +16,13 @@ The curriculum is designed to move from foundational concepts to building produc
 
 ## Technologies & Tools
 
-- **Core Model:** Google Gemini
-- **Framework:** Agent Development Kit (ADK)
-- **Protocol:** Model Context Protocol (MCP)
-- **Platform:** Kaggle (for Codelabs)
-- **Language:** Python
-- **Support Tool:** NotebookLM
-- **Landing Page:** [Source](https://www.kaggle.com/kaggle5daysofai/code)
+- **Core Model**: Google Gemini
+- **Framework**: Agent Development Kit (ADK)
+- **Protocol**: Model Context Protocol (MCP)
+- **Platform**: Kaggle (for Codelabs)
+- **Language**: Python
+- **Support Tool**: NotebookLM
+- **Landing Page**: [Source](https://www.kaggle.com/kaggle5daysofai/code)
 
 ## Daily Assignments & Curriculum
 
@@ -30,13 +30,13 @@ This section tracks the daily assignments and materials from the course.
 
 ### Day 1: Introduction to Agents
 
-- **Topic:** Introduces a taxonomy of agent capabilities, the need for an "Agent Ops" discipline, and the importance of interoperability and security.
-- **Whitepaper:** "Introduction to Agents"
-- **Podcast:** [Unit 1 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)
-- **Codelabs (Kaggle):**
-  1. [Build your first agent using Gemini and ADK]
-      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action) / 
-      [Submission](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
+- **Topic**: Introduces a taxonomy of agent capabilities, the need for an "Agent Ops" discipline, and the importance of interoperability and security.
+- **Whitepaper**: "Introduction to Agents"
+- **Podcast**: [Unit 1 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)
+- **Codelabs (Kaggle)**:
+  1. Build your first agent using Gemini and ADK
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action) / 
+     [Submission](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action)
   2. [Build your first multi-agent systems using ADK]
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
@@ -46,30 +46,42 @@ This section tracks the daily assignments and materials from the course.
 
 ### Day 2: Agent Tools & Interoperability (MCP)
 
-- **Topic:** Focuses on external tools and functions that allow an agent to perform actions or retrieve real-time data. Introduces the Model Context Protocol (MCP) for complex operations.
-- **Whitepaper:** "Agent Tools & Interoperability with Model Context Protocol (MCP)"
+- **Topic**: Focuses on external tools and functions that allow an agent to perform actions or retrieve real-time data. Introduces the Model Context Protocol (MCP) for complex operations.
+- **Whitepaper**: "Agent Tools & Interoperability with Model Context Protocol (MCP)"
 - **Podcast:** [Unit 2 Summary (via NotebookLM)](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
-- **Codelabs (Kaggle):**
-  1. [Explore new ways to add tools to extend what your agents can do](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
-  2. [Explore best practices for tools, including MCP and long-running operations](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
+- **Codelabs (Kaggle)**:
+  1. Explore new ways to add tools to extend what your agents can do
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
+  2. [Explore best practices for tools, including MCP and long-running operations]
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
 
 ### Day 3: Context Engineering: Sessions & Memory
 
-- **Topic:** Context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
-- **Whitepaper:** "Context Engineering: Sessions & Memory"
-- **Podcast:** "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
-- **Codelabs (Kaggle):**
-  1. [Build stateful agents and perform context engineering](https://www.kaggle.com/code/robertswetland/day-3a-agent-sessions)
-  2. [Explore how to use memory with your agent.](https://www.kaggle.com/code/robertswetland/day-3b-agent-memory)
+- **Topic**: Context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
+- **Whitepaper**: "Context Engineering: Sessions & Memory"
+- **Podcast**: "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
+- **Codelabs (Kaggle)**:
+  1. Build stateful agents and perform context engineering
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-3a-agent-sessions)
+  2. Explore how to use memory with your agent.
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3b-agent-memory)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-3b-agent-memory)
 
 ### Day 4: Agent Quality
 
-- **Topic:** The challenges of assuring quality in AI agents through a holistic evaluation framework.
-- **Whitepaper:** "Agent Quality"
-- **Podcast:** "[Unit 4 Summary (via NotebookLM)(https://www.youtube.com/watch?v=LFQRy-Ci-lk)
-- **Codelabs (Kaggle):**
-  1. [Implement observability to help  debug your agents.](https://www.kaggle.com/code/robertswetland/day-4a-agent-observability)
-  2. [Evaluate your agents.](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
+- **Topic**: The challenges of assuring quality in AI agents through a holistic evaluation framework.
+- **Whitepaper**: "Agent Quality"
+- **Podcast**: "[Unit 4 Summary (via NotebookLM)(https://www.youtube.com/watch?v=LFQRy-Ci-lk)
+- **Codelabs (Kaggle)**:
+  1. Implement observability to help  debug your agents.
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-4a-agent-observability)
+  2. Evaluate your agents.
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation)
+     [Submission](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
 
 ### Day 5 (Nov 13, 2025)
 
