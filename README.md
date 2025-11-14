@@ -1,6 +1,6 @@
 # 5-Day AI Agents Intensive Course with Google 2025
 
-Welcome! This repository contains my personal notes, code, and solutions for the **5-Day AI Agents Intensive Course** hosted by Google.
+Welcome! This repository contains my personal notes, code, and solutions for the **5-Day AI Agents Intensive Course** hosted by Google X and Kaggle.
 
 This 5-day online program, crafted by Google's ML researchers and engineers, helps developers explore the foundations and practical applications of AI agents.
 
