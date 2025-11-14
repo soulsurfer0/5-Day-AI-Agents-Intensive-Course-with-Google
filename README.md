@@ -89,10 +89,10 @@ This section tracks the daily assignments and materials from the course.
 - **Whitepaper**: "Prototype to Production"
 - **Podcast**: [Unit 5 Summary](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
 - **Codelabs (Kaggle)**:
-  1. Implement observability to help  debug your agents.
+  1. o	Explore how to use Agent2Agent (A2A) Protocol to have agents interact with each other. 
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) / 
      [Submission](#)
-  2. Evaluate your agents.
+  2. o	[Optional] Deploy your agent to Agent Engine on Google Cloud.
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment) / 
      [Submission](#)
 
