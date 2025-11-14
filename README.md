@@ -33,8 +33,12 @@ This section tracks the daily assignments and materials from the course.
 - **Whitepaper:** "Introduction to Agents"
 - **Podcast:** [Unit 1 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)
 - **Codelabs (Kaggle):**
-  1. [Build your first agent using Gemini and ADK](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
-  2. [Build your first multi-agent systems using ADK](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
+  1. [Build your first agent using Gemini and ADK]
+      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action)
+      [Mine](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
+  2. [Build your first multi-agent systems using ADK]
+     [Original](#)
+     [Mine](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
 - **Resources:**
   - [Codelab Troubleshooting Guide](https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs)
   - Note: Kaggle account phone verification is required for codelabs.
@@ -63,8 +67,8 @@ This section tracks the daily assignments and materials from the course.
 - **Whitepaper:** "Agent Quality"
 - **Podcast:** "[Unit 4 Summary (via NotebookLM)(https://www.youtube.com/watch?v=LFQRy-Ci-lk)
 - **Codelabs (Kaggle):**
-  1. [Implement observability to help  debug your agents.](#)
-  2. [Evaluate your agents.](#)
+  1. [Implement observability to help  debug your agents.](https://www.kaggle.com/code/robertswetland/day-4a-agent-observability)
+  2. [Evaluate your agents.](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
 
 ### Day 5 (Nov 13, 2025)
 
