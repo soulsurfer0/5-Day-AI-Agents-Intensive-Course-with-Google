@@ -21,7 +21,7 @@ The curriculum is designed to move from foundational concepts to building produc
 - **Protocol**: Model Context Protocol (MCP)
 - **Platform**: Kaggle (for Codelabs)
 - **Language**: Python
-- **Support Tool**: [NotebookLM] - Personal(https://notebooklm.google.com/notebook/e27e4bae-a48e-4e59-a296-504f4b954d0a)
+- **Support Tool**: [NotebookLM](https://notebooklm.google.com/notebook/e27e4bae-a48e-4e59-a296-504f4b954d0a)
 - **Landing Page**: [Source](https://www.kaggle.com/kaggle5daysofai/code)
 
 ## Daily Assignments & Curriculum
@@ -32,7 +32,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Introduces a taxonomy of agent capabilities, the need for an "Agent Ops" discipline, and the importance of interoperability and security.
 - **Whitepaper**: "Introduction to Agents"
-- **Podcast**: [Unit 1 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)
+- **Podcast**: [Unit 1 Summary](https://www.youtube.com/watch?v=zTxvGzpfF-g)
 - **Codelabs (Kaggle)**:
   1. Build your first agent using Gemini and ADK
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action) / 
@@ -48,7 +48,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Focuses on external tools and functions that allow an agent to perform actions or retrieve real-time data. Introduces the Model Context Protocol (MCP) for complex operations.
 - **Whitepaper**: "Agent Tools & Interoperability with Model Context Protocol (MCP)"
-- **Podcast:** [Unit 2 Summary (via NotebookLM)](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
+- **Podcast:** [Unit 2 Summary](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 - **Codelabs (Kaggle)**:
   1. Explore new ways to add tools to extend what your agents can do
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools) / 
@@ -61,7 +61,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
 - **Whitepaper**: "Context Engineering: Sessions & Memory"
-- **Podcast**: "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
+- **Podcast**: "[Unit 3 Summary](https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle)**:
   1. Build stateful agents and perform context engineering
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions) / 
@@ -74,7 +74,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: The challenges of assuring quality in AI agents through a holistic evaluation framework.
 - **Whitepaper**: "Agent Quality"
-- **Podcast**: "[Unit 4 Summary (via NotebookLM)(https://www.youtube.com/watch?v=LFQRy-Ci-lk)
+- **Podcast**: "[Unit 4 Summary](https://www.youtube.com/watch?v=LFQRy-Ci-lk)
 - **Codelabs (Kaggle)**:
   1. Implement observability to help  debug your agents.
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability) / 
@@ -87,7 +87,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Technical guide to the operational lifecycle of AI agents, focusing on deployment, scaling and productionization
 - **Whitepaper**: "Prototype to Production"
-- **Podcast**: "[Unit 5 Summary (via NotebookLM)(https://www.youtube.com/watch?v=8Wyt9l7ge-g)
+- **Podcast**: "[Unit 5 Summary](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
 - **Codelabs (Kaggle)**:
   1. Implement observability to help  debug your agents.
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) / 
