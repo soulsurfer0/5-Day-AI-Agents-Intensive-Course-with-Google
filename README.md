@@ -1,4 +1,4 @@
-# 5-Day AI Agents Intensive Course with Google
+# 5-Day AI Agents Intensive Course with Google 2025
 
 Welcome! This repository contains my personal notes, code, and solutions for the **5-Day AI Agents Intensive Course** hosted by Google.
 
@@ -50,16 +50,21 @@ This section tracks the daily assignments and materials from the course.
 
 ### Day 3: Context Engineering: Sessions & Memory
 
-- **Topic:** context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
+- **Topic:** Context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
 - **Whitepaper:** "Context Engineering: Sessions & Memory"
 - **Podcast:** "[Unit 3 Summary (via NotebookLM)(https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle):**
   1. [Build stateful agents and perform context engineering](https://www.kaggle.com/code/robertswetland/day-3a-agent-sessions)
   2. [Explore how to use memory with your agent.](https://www.kaggle.com/code/robertswetland/day-3b-agent-memory)
 
-### Day 4 (Nov 12, 2025)
+### Day 4: Agent Quality
 
-- Assignments and materials will be added upon release.
+- **Topic:** The challenges of assuring quality in AI agents through a holistic evaluation framework.
+- **Whitepaper:** "Agent Quality"
+- **Podcast:** "[Unit 4 Summary (via NotebookLM)(https://www.youtube.com/watch?v=LFQRy-Ci-lk)
+- **Codelabs (Kaggle):**
+  1. [Implement observability to help  debug your agents.](#)
+  2. [Evaluate your agents.](#)
 
 ### Day 5 (Nov 13, 2025)
 
