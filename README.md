@@ -85,7 +85,7 @@ This section tracks the daily assignments and materials from the course.
 
 ### Day 5: Prototype to Production
 
-- **Topic**: Technical guide to the operational lifecycle of AI agents, focusing on deployment, scaling and productionization
+- **Topic**: Technical guide to the operational lifecycle of AI agents, focusing on deployment, scaling and productionization.
 - **Whitepaper**: "Prototype to Production"
 - **Podcast**: [Unit 5 Summary](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
 - **Codelabs (Kaggle)**:
