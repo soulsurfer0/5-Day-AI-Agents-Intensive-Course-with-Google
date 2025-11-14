@@ -35,11 +35,11 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast**: [Unit 1 Summary](https://www.youtube.com/watch?v=zTxvGzpfF-g)
 - **Codelabs (Kaggle)**:
   1. Build your first agent using Gemini and ADK
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action)
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action)
   2. [Build your first multi-agent systems using ADK]
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures) 
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
 - **Resources:**
   - [Codelab Troubleshooting Guide](https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs)
   - Note: Kaggle account phone verification is required for codelabs.
@@ -51,11 +51,11 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast:** [Unit 2 Summary](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 - **Codelabs (Kaggle)**:
   1. Explore new ways to add tools to extend what your agents can do
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools) 
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
   2. Explore best practices for tools, including MCP and long-running operations
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices)
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
 
 ### Day 3: Context Engineering: Sessions & Memory
 
@@ -64,11 +64,11 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast**: [Unit 3 Summary](https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle)**:
   1. Build stateful agents and perform context engineering
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-3a-agent-sessions)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions) 
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-3a-agent-sessions)
   2. Explore how to use memory with your agent.
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3b-agent-memory) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-3b-agent-memory)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3b-agent-memory) 
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-3b-agent-memory)
 
 ### Day 4: Agent Quality
 
@@ -77,11 +77,11 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast**: [Unit 4 Summary](https://www.youtube.com/watch?v=LFQRy-Ci-lk)
 - **Codelabs (Kaggle)**:
   1. Implement observability to help  debug your agents.
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-4a-agent-observability)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability) 
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-4a-agent-observability)
   2. Evaluate your agents.
-     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation) / 
-     [Submission](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation) 
+     - [Submission](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
 
 ### Day 5: Prototype to Production
 
@@ -90,10 +90,10 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast**: [Unit 5 Summary](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
 - **Codelabs (Kaggle)**:
   1. Explore how to use Agent2Agent (A2A) Protocol to have agents interact with each other. 
-     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) / 
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication)
      - [Submission](#)
   2. [Optional] Deploy your agent to Agent Engine on Google Cloud.
-     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment) / 
+     - [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment) 
      - [Submission](#)
 
 ## Acknowledgement & Disclaimer
