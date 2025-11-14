@@ -22,7 +22,7 @@ The curriculum is designed to move from foundational concepts to building produc
 - **Platform:** Kaggle (for Codelabs)
 - **Language:** Python
 - **Support Tool:** NotebookLM
-- **Landing Page:** [Source}(https://www.kaggle.com/kaggle5daysofai/code)
+- **Landing Page:** [Source](https://www.kaggle.com/kaggle5daysofai/code)
 
 ## Daily Assignments & Curriculum
 
