@@ -21,7 +21,7 @@ The curriculum is designed to move from foundational concepts to building produc
 - **Protocol**: Model Context Protocol (MCP)
 - **Platform**: Kaggle (for Codelabs)
 - **Language**: Python
-- **Support Tool**: NotebookLM
+- **Support Tool**: [NotebookLM (Personal) ](https://notebooklm.google.com/notebook/e27e4bae-a48e-4e59-a296-504f4b954d0a)
 - **Landing Page**: [Source](https://www.kaggle.com/kaggle5daysofai/code)
 
 ## Daily Assignments & Curriculum
