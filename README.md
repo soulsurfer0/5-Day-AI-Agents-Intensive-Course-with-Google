@@ -61,7 +61,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Context engineering as the practice of dynamically assembling and managing information within an agent's context window to create stateful and personalized Al experiences. It defines Sessions as the container for a single, immediate conversation's history, and Memory as the long-term persistence mechanism.
 - **Whitepaper**: "Context Engineering: Sessions & Memory"
-- **Podcast**: "[Unit 3 Summary](https://www.youtube.com/watch?v=FMcExVE15a4)
+- **Podcast**: [Unit 3 Summary](https://www.youtube.com/watch?v=FMcExVE15a4)
 - **Codelabs (Kaggle)**:
   1. Build stateful agents and perform context engineering
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions) / 
