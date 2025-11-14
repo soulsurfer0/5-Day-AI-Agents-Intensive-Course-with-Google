@@ -74,7 +74,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: The challenges of assuring quality in AI agents through a holistic evaluation framework.
 - **Whitepaper**: "Agent Quality"
-- **Podcast**: "[Unit 4 Summary](https://www.youtube.com/watch?v=LFQRy-Ci-lk)
+- **Podcast**: [Unit 4 Summary](https://www.youtube.com/watch?v=LFQRy-Ci-lk)
 - **Codelabs (Kaggle)**:
   1. Implement observability to help  debug your agents.
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability) / 
@@ -87,7 +87,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Technical guide to the operational lifecycle of AI agents, focusing on deployment, scaling and productionization
 - **Whitepaper**: "Prototype to Production"
-- **Podcast**: "[Unit 5 Summary](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
+- **Podcast**: [Unit 5 Summary](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
 - **Codelabs (Kaggle)**:
   1. Implement observability to help  debug your agents.
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) / 
