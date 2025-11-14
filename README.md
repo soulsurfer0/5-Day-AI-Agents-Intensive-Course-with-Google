@@ -35,10 +35,10 @@ This section tracks the daily assignments and materials from the course.
 - **Podcast:** [Unit 1 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)
 - **Codelabs (Kaggle):**
   1. [Build your first agent using Gemini and ADK]
-      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action)
+      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action) / 
       [Submission](https://www.kaggle.com/code/robertswetland/day-1a-from-prompt-to-action))
   2. [Build your first multi-agent systems using ADK]
-     [Original](#)
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-1b-agent-architectures)
 - **Resources:**
   - [Codelab Troubleshooting Guide](https://www.kaggle.com/code/kaggle5daysofai/day-0-troubleshooting-and-faqs)
