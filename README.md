@@ -53,7 +53,7 @@ This section tracks the daily assignments and materials from the course.
   1. Explore new ways to add tools to extend what your agents can do
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-2a-agent-tools)
-  2. [Explore best practices for tools, including MCP and long-running operations]
+  2. Explore best practices for tools, including MCP and long-running operations
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-2b-agent-tools-best-practices)
 
@@ -83,9 +83,18 @@ This section tracks the daily assignments and materials from the course.
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation) / 
      [Submission](https://www.kaggle.com/code/robertswetland/day-4b-agent-evaluation/edit)
 
-### Day 5 (Nov 13, 2025)
+### Day 5: Prototype to Production
 
-- Assignments and materials will be added upon release.
+- **Topic**: Technical guide to the operational lifecycle of AI agents, focusing on deployment, scaling and productionization
+- **Whitepaper**: "Prototype to Production"
+- **Podcast**: "[Unit 5 Summary (via NotebookLM)(https://www.youtube.com/watch?v=8Wyt9l7ge-g)
+- **Codelabs (Kaggle)**:
+  1. Implement observability to help  debug your agents.
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication) / 
+     [Submission](#)
+  2. Evaluate your agents.
+     [Original](https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment) / 
+     [Submission](#)
 
 ## Acknowledgement & Disclaimer
 
