@@ -48,7 +48,7 @@ This section tracks the daily assignments and materials from the course.
 
 - **Topic**: Focuses on external tools and functions that allow an agent to perform actions or retrieve real-time data. Introduces the Model Context Protocol (MCP) for complex operations.
 - **Whitepaper**: "Agent Tools & Interoperability with Model Context Protocol (MCP)"
-- **Podcast:** [Unit 2 Summary (via NotebookLM)](https://www.youtube.com/watch?v=zTxvGzpfF-g)[](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
+- **Podcast:** [Unit 2 Summary (via NotebookLM)](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 - **Codelabs (Kaggle)**:
   1. Explore new ways to add tools to extend what your agents can do
      [Original](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools) / 
